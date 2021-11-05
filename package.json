@@ -1,0 +1,23 @@
+{
+  "name": "tp3cloudcomputing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianMoralesSantoni/Tp3CLoudComputing.git"
+  },
+  "author": "JulianMorales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianMoralesSantoni/Tp3CLoudComputing/issues"
+  },
+  "homepage": "https://github.com/JulianMoralesSantoni/Tp3CLoudComputing#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1022.0",
+    "nano": "^9.0.5"
+  }
+}

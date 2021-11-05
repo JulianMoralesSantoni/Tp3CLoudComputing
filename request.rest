@@ -1,0 +1,13 @@
+POST http://localhost:3000/envios 
+content-type: application/json
+
+{
+    "destino": "Mendoza",
+    "email": "julianmorales@gmail.com"
+}
+
+###
+GET http://localhost:3000/envios/pendientes
+
+###
+PUT http://localhost:3000/envios/{idEnvio}/entregado
